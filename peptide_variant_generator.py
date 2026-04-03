@@ -25,12 +25,12 @@ import sys
 # CONFIGURATION
 # ============================================================================
 
-PRINCIPLES_FILE = "principles/design_principles_VRRFPWWWPFLRR.json"
-OUTPUT_FILE = "VRRFPWWWPFLRR_variants.csv"
+PRINCIPLES_FILE = "principles/design_principles_YOURSEQ.json"
+OUTPUT_FILE = "YOURSEQ_variants.csv"
 
 # Prediction parameters
-#BASE_HC50 = 37.146       # Default baseline HC50 (can be changed)
-#BASE_MIC = 0.714         # Default baseline MIC (can be changed)
+#BASE_HC50 = number(3 decimal)  # Default baseline HC50 (can be changed)
+#BASE_MIC = number(3 decimal)   # Default baseline MIC (can be changed)
 
 # Generation parameters
 MAX_MUTATIONS = 2        # Maximum simultaneous mutations
