@@ -28,9 +28,9 @@ import json
 # CONFIGURATION
 # ============================================================================
 
-PYAMPA_FILE = "VRRFPWWWPFLRR_mutagenesis.csv"
+PYAMPA_FILE = "YOURSEQ_mutagenesis.csv"
 OUTPUT_REPORT = "pyampa_analysis_report.txt"
-OUTPUT_PRINCIPLES = "design_principles_VRRFPWWWPFLRR.json"
+OUTPUT_PRINCIPLES = "design_principles_YOURSEQ.json"
 
 # Analysis thresholds
 GOOD_AMP_THRESHOLD = None    # Will be set to median (data-driven)
