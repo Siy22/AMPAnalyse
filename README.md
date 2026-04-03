@@ -231,7 +231,7 @@ python peptide_variant_generator.py
 
 After generating variants, the recommended next steps are:
 1. Review the CSV and shortlist 2–3 candidates
-2. Validate predictions with external tools (e.g., HemoPI2, ToxinPred, APD3)
+2. Validate predictions with external tools (e.g., HemoPI2, ToxinPred, EIPpred)
 3. Progress shortlisted candidates to experimental testing
 
 ---
@@ -244,4 +244,4 @@ AMPAnalyse was developed as part of a **Final Year Project** in an in silico AMP
 
 ## License
 
-This project is currently unlicensed. All rights reserved by the author. If you would like to use or build upon this work, please open an issue or contact the repository owner.
+This project is currently unlicensed. All rights reserved by the author. 
