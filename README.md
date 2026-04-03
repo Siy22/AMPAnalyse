@@ -99,7 +99,7 @@ pip install pandas numpy
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/AMPAnalyse.git
+git clone https://github.com/Siy22/AMPAnalyse.git
 cd AMPAnalyse
 pip install pandas numpy
 ```
