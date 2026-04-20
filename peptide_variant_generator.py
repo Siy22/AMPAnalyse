@@ -10,9 +10,6 @@ Features:
 - Predict HC50 and MIC changes
 - Rank by safety improvement
 
-Author: AMP Design Tool
-Date: 2025
-For: Final Year Project - In Silico Pipeline
 """
 
 import pandas as pd
