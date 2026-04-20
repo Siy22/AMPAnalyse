@@ -14,9 +14,6 @@ Outputs:
 4. General SAR principles
 5. Actionable design rules
 
-Author: AMP Design Tool
-Date: 2025
-For: Final Year Project
 """
 
 import pandas as pd
