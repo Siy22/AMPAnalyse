@@ -238,7 +238,7 @@ After generating variants, the recommended next steps are:
 
 ## Project Context
 
-AMPAnalyse was developed as part of a **Final Year Project** in an in silico AMP design pipeline. The tool is designed to bridge computational mutagenesis screening (via tools like PYAMPA) with rational variant design, providing interpretable SAR principles alongside quantitative variant rankings.
+AMPAnalyse was developed as part of a **Research Project** in an in silico AMP design pipeline. The tool is designed to bridge computational mutagenesis screening (via tools like PYAMPA) with rational variant design, providing interpretable SAR principles alongside quantitative variant rankings.
 
 ---
 
