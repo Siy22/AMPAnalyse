@@ -1,4 +1,4 @@
-# AMPAnalyse 🧬
+# AMPAnalyse 
 
 **An in silico pipeline for antimicrobial peptide (AMP) design via Structure-Activity Relationship (SAR) analysis and intelligent variant generation.**
 
